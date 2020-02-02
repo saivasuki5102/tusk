@@ -2,3 +2,5 @@ Welcome to py
 
 Vasuki
 Yamini
+Priya
+Divya
